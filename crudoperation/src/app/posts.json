@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "empId": "t-shirt",
+      "empName": "red",
+      "employee_salary": "4500",
+      "empAge": "25"
+    }
+  ]
+}
